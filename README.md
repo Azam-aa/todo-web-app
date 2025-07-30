@@ -37,6 +37,14 @@ To get a local copy up and running, follow these simple steps:
     * Simply open the `index.html` file in your preferred web browser.
     * For the app to work properly and manage local storage effectively, it's recommended to host it on a local server (e.g., using Live Server extension for VS Code) or a web server.
 
+## Technologies Used
+
+The To-Do List web app is built using standard web technologies:
+
+* **HTML5:** For structuring the web content.
+* **CSS3:** For styling and layout, ensuring a responsive and visually appealing interface.
+* **JavaScript:** For dynamic functionality, task management logic, and user interaction.
+
 
 18/06/2025 :
 I created a HTML file i just coded a basic flow of web page.
