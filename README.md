@@ -59,3 +59,10 @@ Created a CSS file to add colour and desgin to the Todo Web app!!!
 20-06-2025
 Created a JS file for make buttons worrkin like light/dark mode 
 + button for adding more task in stack
+
+  ## Feedback and Support
+
+💌 Thank you for using the To-Do List app! I hope it helps you stay organized and productive.
+
+If you have any feedback, suggestions, or encounter any issues, please feel free to open an issue on this GitHub repository or contact the developer directly.
+
