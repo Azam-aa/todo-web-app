@@ -23,6 +23,20 @@ The To-Do List web app is a user-friendly and efficient task management tool des
 6.  **Updating Profile:**
     * Upon the first load of the page, you will be prompted to create your profile (name and email), which will be stored in your browser's local storage.
 
+To get a local copy up and running, follow these simple steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/Azam-aa/todo-web-app.git](https://github.com/Azam-aa/todo-web-app.git)
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd todo-web-app
+    ```
+3.  **Open `index.html`:**
+    * Simply open the `index.html` file in your preferred web browser.
+    * For the app to work properly and manage local storage effectively, it's recommended to host it on a local server (e.g., using Live Server extension for VS Code) or a web server.
+
 
 18/06/2025 :
 I created a HTML file i just coded a basic flow of web page.
