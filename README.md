@@ -4,6 +4,26 @@
 
 The To-Do List web app is a user-friendly and efficient task management tool designed to help you stay organized and productive. With its intuitive interface, you can easily add, update, and delete tasks, allowing you to keep track of your daily, weekly, and monthly tasks with ease. This application aims to provide a streamlined approach to managing your activities and enhancing your productivity.
 
+## How to Use
+
+📖 Getting started with the To-Do List app is straightforward:
+
+1.  **Adding a Task:**
+    * Enter the task description in the designated input field.
+    * Select the due date using the date picker.
+    * Click the "Add" button or press `Enter` to save the task.
+2.  **Navigating Sections:**
+    * Click on the "My Day," "Current Week," "Current Month," or "All Tasks" links in the navigation to filter and view tasks specific to that section.
+3.  **Marking Tasks:**
+    * Each task has a checkbox next to it. Check the box to mark a task as completed. Uncheck it to mark it as pending.
+4.  **Deleting Tasks:**
+    * To delete a task, click on the trash icon next to the task. A confirmation pop-up will appear; confirm to delete the task permanently.
+5.  **Searching for Tasks:**
+    * Type keywords into the search box and press `Enter`. The app will filter and display tasks that match your search query within the currently selected section.
+6.  **Updating Profile:**
+    * Upon the first load of the page, you will be prompted to create your profile (name and email), which will be stored in your browser's local storage.
+
+
 18/06/2025 :
 I created a HTML file i just coded a basic flow of web page.
 Two data entry box (one for task name) & (anthor for give it a tag example #work )
